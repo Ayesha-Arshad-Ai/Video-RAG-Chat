@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Video RAG System Project
 
 This FastAPI-based Video RAG (Retrieval-Augmented Generation) system provides endpoints to:
@@ -93,3 +94,6 @@ rag_system/
 ├── requirements.txt
 └── README.md
 ```
+=======
+# Video-RAG-Chat
+>>>>>>> 4f306cb4d85edb9120d03d7e4cadb92d56fbab14
