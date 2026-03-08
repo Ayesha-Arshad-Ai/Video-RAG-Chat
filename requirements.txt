@@ -1,0 +1,16 @@
+faiss-cpu 
+sentence_transformers 
+langchain_groq 
+langchain-community 
+langchain_huggingface
+google-genai
+langchain-mongodb
+pyjwt
+uvicorn
+python-multipart
+fastapi
+passlib
+bcrypt
+python-jose
+pymongo
+pydantic[email]
